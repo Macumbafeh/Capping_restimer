@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ResTimer
+## Author: Selaya
+## Notes: Battleground Spirit Resurrection wave timer tracker. Requires Capping.
+## Version: 1.0
+## Dependencies: Capping
+
+restimer.lua
